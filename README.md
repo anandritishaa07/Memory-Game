@@ -6,17 +6,6 @@ A simple memory game where players must replicate a sequence of button flashes. 
 
 This project is built using HTML, CSS, and JavaScript to deliver an interactive browser-based game.
 
-## Files and Structure
-
-```plaintext
-MemoryGame/
-├── index.html        # Main HTML file (game interface)
-├── simonsayscss.css  # CSS file (styling and layout)
-├── simonsaysjs.js    # JavaScript file (game logic)
-├── README.md         # Documentation file
-
-## How It Works
-
 ### Starting the Game:
 - Press any key to start the game.
 - The game begins at Level 1 and generates a random button flash.
@@ -40,7 +29,25 @@ MemoryGame/
 - **JavaScript**: Implementing the game logic and interactivity.
 
 ## How to Run the Project
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/MemoryGame.git
+    ```bash
+    git clone https://github.com/your-username/MemoryGame.git
+    ```
+
+2. Open the folder in VS Code.
+
+3. Open `index.html` in your browser to play the game.
+
+## Future Improvements
+- Add sound effects for button flashes.
+- Implement a leaderboard to save high scores.
+- Support for touch events on mobile devices.
+
+## What I Learned
+Working on this project enhanced my understanding of:
+- DOM manipulation using JavaScript.
+- Event handling for interactive gameplay.
+- Creating dynamic animations with CSS.
+
 
